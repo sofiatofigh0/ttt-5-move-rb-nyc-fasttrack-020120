@@ -8,4 +8,4 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(input="1","2","3","4","5","6","7","8","9")
-  puts 
+end
